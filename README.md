@@ -1,8 +1,8 @@
-Here's a README file template for your project:
+
 
 ---
 
-# Automated Sheet Stack Counter
+# Automated Sheet Stack Counter 📊
 
 This project is a web application that automatically counts the number of sheets in a stack using computer vision techniques. Built with Streamlit, the app provides an easy-to-use interface for users to upload images of sheet stacks and receive an estimated sheet count.
 
