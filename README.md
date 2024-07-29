@@ -44,7 +44,7 @@ This project is a web application that automatically counts the number of sheets
 
 3. **Run the Application**
    ```bash
-   streamlit run app.py
+   streamlit run sheet_counter_app.py
    ```
 
 ## Usage
